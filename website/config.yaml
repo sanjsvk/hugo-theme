@@ -23,7 +23,7 @@ params:
 
   # home
   disable_home: false
-  profile_image: "/images/profile.png"
+  profile_image: "/images/profile.webp"
   name: "Sanjan Vijayakumar"
   profession: "Data Scientist"
   github: "https://github.com/sanjsvk"
