@@ -92,7 +92,7 @@ params:
       img: /images/project.jpg
       githublink: "https://github.com/sanjsvk/Yelp-Restaurant-Business-Analysis"
       description: "A project which aims at gaining insights and helping restaurants objectively interpret their reviews."
-    - name: "Time-Series forecasting for energy consumption prediction"
+    - name: "Energy consumption Time-series forecasting"
       img: /images/project.jpg
       githublink: "https://github.com/sanjsvk/Time-Series-Forecasting"
       description: "A project to predict energy consumption in buildings with time-series hourly meter readings for one year."
