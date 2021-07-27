@@ -42,7 +42,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Sanjan Vijayakumar, a passionate Data Scientist. I like to leverage the power of data to build insights that help make valuable business decisions"
+  descripe_l1_person: "Hi, I'm Sanjan Vijayakumar, a passionate Data Scientist. <br> I like to leverage the power of data to build insights that help make valuable business decisions"
   skills:
     - name: Python
       percentage: 90
@@ -63,9 +63,9 @@ params:
       startdate: May 2021
       enddate: present
       featuredpoints:
-        - point: Created an installable data platform package that reduces data pre-processing time by 40%.
+        - point: Created an installable data-platform package reducing data pre-processing time by 40%.
         - point: Built and deployed a recommendation system to recommend tests to users.
-        - point: Devised a framework for storage and retrieval of test reference ranges in the AWS infrastructure.
+        - point: Devised a framework for storage and retrieval of test reference ranges in AWS.
     - company: "eMotionRx, Inc"
       role: "Data Science co-op"
       startdate: May 2020
@@ -73,7 +73,7 @@ params:
       featuredpoints:
         - point: Orchestrated the migration of on-prem sensor data onto Google Cloud Platform.
         - point: Streamlined ETL jobs using Cloud Dataproc reducing pre-processing runtime by 30%.
-        - point: Designed a random forest model with 94% accuracy for pressure distribution on a foot-sole.
+        - point: Designed a random forest model with 94% accuracy for pressure distribution on a sole.
 
   # Education
   disable_education: false
@@ -113,16 +113,16 @@ params:
   # Achievements
   disable_achievements: false
   achievements:
-    - title: Semi-finalist - EY Data Science Challenge 2021
-      description: Selected in the top 8 teams for the 2021 Better Working World Data Challenge from EY
+    - title: Semi-finalist - EY Data Science challenge 2021
+      description: Selected in the top 8 teams for the 2021 Better working world data challenge by EY.
       img: /images/achiv.jpg
-    - title: Paper - Breast Cancer Classification Using Data Mining
+    - title: Paper - Breast cancer classification using data mining
       description: Published a paper with IJRES on breast cancer classification techniques.
       img: /images/achiv.jpg
-    - title: Paper - Sequential and Parallel Alpha-Beta Pruning algorithm
-      description: Published a paper on the working of the AI alpha-beta pruning algorithm
+    - title: Paper - Sequential and parallel Alpha-Beta pruning algorithm
+      description: Published a paper on the working of the Alpha-Beta pruning algorithm.
       img: /images/achiv.jpg
-    - title: Captain - Northeastern Cricket Club sports
+    - title: Captain - Northeastern Cricket club sports
       description: Led the Northeastern Cricket team to various regional and national tournaments in the US.
       img: /images/achiv.jpg
 
