@@ -1,4 +1,4 @@
-baseURL: "https://profile.gurusabarish.tech"
+baseURL: "https://61008382dc94cf4a0aefd39f--sanjan-vijayakumar.netlify.app/"
 languageCode: "en-us"
 title: "Hugo-profile"
 
@@ -32,70 +32,62 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "Guru Sabarish"
-  profession: "Full Stack Developer"
-  github: "https://github.com/gurusabarish"
-  linkedin: "https://linkedin.com/in/gurusabarish"
-  twitter: "https://twitter.com/gurusabarishh"
-  instagram: "https://instagram.com/gurusabarishh"
-  facebook: "https://facebook.com/gurusabarish01"
+  name: "Sanjan Vijayakumar"
+  profession: "Data Scientist"
+  github: "https://github.com/sanjsvk"
+  linkedin: "https://www.linkedin.com/in/sanjanvijayakumar/"
+  twitter: "https://twitter.com/sanjansvk"
+  instagram: "https://www.instagram.com/sanj.an/"
+  facebook: "https://www.facebook.com/sanjan.vijayakumar/"
 
   # About
   disable_about: false
   descripe_l1_person: "Hi, I'm Sanjan Vijayakumar, a passionate Data Scientist. I like to leverage the power of data to build insights that help make valuable business decisions"
   skills:
-    - name: CSS
+    - name: Python
       percentage: 90
-    - name: Django
+    - name: SQL
       percentage: 85
-    - name: Hugo
+    - name: Machine Learning/Deep Learning
       percentage: 80
-    - name: React JS
+    - name: AWS
+      percentage: 75
+    - name: Google Cloud Platform
       percentage: 70
 
   # Experience
   disable_experience: false
   experience:
-    - company: "Google"
-      role: "Software developer"
-      startdate: Feb 2021
+    - company: "LabCorp"
+      role: "Data Science Intern"
+      startdate: May 2021
       enddate: present
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Facebook"
-      role: "Fullstack developer"
-      startdate: Mar 2020
+        - point: Created an installable data platform package that reduces data pre-processing time by 40%.
+        - point: Built and deployed a recommendation system to recommend tests to users.
+        - point: Devised a framework for storage and retrieval of test reference ranges in the AWS infrastructure.
+    - company: "eMotionRx, Inc"
+      role: "Data Science co-op"
+      startdate: May 2020
       enddate: Dec 2020
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Amazon"
-      role: "Fullstack developer"
-      startdate: Feb 2019
-      enddate: Jan 2020
-      featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: Orchestrated the migration of on-prem sensor data onto Google Cloud Platform.
+        - point: Streamlined ETL jobs using Cloud Dataproc reducing pre-processing runtime by 30%.
+        - point: Designed a random forest model with 94% accuracy for pressure distribution on a foot-sole.
 
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
+    - degree: "Bachelor of Engineering"
+      branch: "Electronics and Communication"
+      university: "Visvesvaraya Technological University"
+      startedyear: "2015"
+      graduation: "2019"
+    - degree: "Master of Science"
+      branch: "Data Science"
+      university: "Northeastern University"
+      startedyear: "2019"
+      graduation: "2021"
 
   # Projects
   disable_projects: false
