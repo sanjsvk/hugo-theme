@@ -92,15 +92,15 @@ params:
   # Projects
   disable_projects: false
   projects:
-    - name: "Attention Based Image Captioning System"
+    - name: "Attention based image captioning system"
       img: /images/project.jpg
       githublink: "https://github.com/sanjsvk/Attention-based-image-captioning"
       description: "An image caption generator that uses a local attention model on top of a VGG-16 model as an application of NLP and deep learning"
-    - name: "Restaurant Business Analysis and Optimization Using Yelp Review Data"
+    - name: "Yelp restaurant business analysis"
       img: /images/project.jpg
       githublink: "https://github.com/sanjsvk/Yelp-Restaurant-Business-Analysis"
       description: "A project which aims at gaining insights and helping restaurants objectively interpret their reviews."
-    - name: "Time Series Forecasting for energy consumption prediction"
+    - name: "Time-Series forecasting for energy consumption prediction"
       img: /images/project.jpg
       githublink: "https://github.com/sanjsvk/Time-Series-Forecasting"
       description: "A project to predict energy consumption in buildings with time-series hourly meter readings for one year."
@@ -116,13 +116,13 @@ params:
     - title: Semi-finalist - EY Data Science challenge 2021
       description: Selected in the top 8 teams for the 2021 Better working world data challenge by EY.
       img: /images/achiv.jpg
-    - title: Paper - Breast cancer classification using data mining
+    - title: Breast cancer classification using data mining
       description: Published a paper with IJRES on breast cancer classification techniques.
       img: /images/achiv.jpg
-    - title: Paper - Sequential and parallel Alpha-Beta pruning algorithm
+    - title: Sequential and parallel Alpha-Beta pruning algorithm
       description: Published a paper on the working of the Alpha-Beta pruning algorithm.
       img: /images/achiv.jpg
-    - title: Captain - Northeastern Cricket club sports
+    - title: Captain - Northeastern cricket club sports
       description: Led the Northeastern Cricket team to various regional and national tournaments in the US.
       img: /images/achiv.jpg
 
