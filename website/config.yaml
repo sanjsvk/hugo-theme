@@ -42,8 +42,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Guru sabarish, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "Check out my blogs [here](https://blog.gurusabarish.tech)"
+  descripe_l1_person: "Hi, I'm Sanjan Vijayakumar, a passionate Data Scientist. I like to leverage the power of data to build insights that help make valuable business decisions"
   skills:
     - name: CSS
       percentage: 90
