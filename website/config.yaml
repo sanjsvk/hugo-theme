@@ -85,19 +85,19 @@ params:
   disable_projects: false
   projects:
     - name: "Attention based image captioning system"
-      img: /images/project.jpg
+      img: /images/captioning.jpg
       githublink: "https://github.com/sanjsvk/Attention-based-image-captioning"
       description: "An image caption generator that uses a local attention model on top of a VGG-16 model as an application of NLP and deep learning"
     - name: "Yelp restaurant business analysis"
-      img: /images/project.jpg
+      img: /images/yelp.jpg
       githublink: "https://github.com/sanjsvk/Yelp-Restaurant-Business-Analysis"
       description: "A project which aims at gaining insights and helping restaurants objectively interpret their reviews."
     - name: "Energy consumption Time-series forecasting"
-      img: /images/project.jpg
+      img: /images/time-series.jpg
       githublink: "https://github.com/sanjsvk/Time-Series-Forecasting"
       description: "A project to predict energy consumption in buildings with time-series hourly meter readings for one year."
     - name: "CycleGANs"
-      img: /images/project.jpg
+      img: /images/cyclegan.png
       githublink: "https://github.com/sanjsvk/CycleGANs"
       description: "A project to understand the operation of CycleGANs with a few examples."
 
