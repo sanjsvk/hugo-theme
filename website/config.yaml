@@ -107,13 +107,13 @@ params:
   achievements:
     - title: Semi-finalist - EY Data Science challenge 2021
       description: Selected in the top 8 teams for the 2021 Better working world data challenge by EY.
-      img: /images/achiv.jpg
+      img: /images/ey.jpeg
     - title: Breast cancer classification using data mining
       description: Published a paper with IJRES on breast cancer classification techniques.
-      img: /images/achiv.jpg
+      img: /images/data-mining.jpg
     - title: Sequential and parallel Alpha-Beta pruning algorithm
       description: Published a paper on the working of the Alpha-Beta pruning algorithm.
-      img: /images/achiv.jpg
+      img: /images/alpha-beta.png
     - title: Northeastern cricket club sports
       description: Captained the Northeastern Cricket team in various regional and national tournaments in the US.
       img: /images/achiv.jpg
