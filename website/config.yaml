@@ -114,8 +114,8 @@ params:
     - title: Sequential and parallel Alpha-Beta pruning algorithm
       description: Published a paper on the working of the Alpha-Beta pruning algorithm.
       img: /images/achiv.jpg
-    - title: Captain - Northeastern cricket club sports
-      description: Led the Northeastern Cricket team to various regional and national tournaments in the US.
+    - title: Northeastern cricket club sports
+      description: Captained the Northeastern Cricket team in various regional and national tournaments in the US.
       img: /images/achiv.jpg
 
   # Contact
@@ -125,8 +125,4 @@ params:
 
   # Footer
   socialiconfooter: true
-  recentposts: true
-
-  # Blog
-  showdescription: false
-  tweet: true
+  recentposts: false
