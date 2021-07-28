@@ -1,5 +1,5 @@
 ---
-title: "Example project with details"
+title: "Example project with detail"
 date: 2021-05-04T11:30:13+05:30
 draft: false
 img: /images/project.jpg
