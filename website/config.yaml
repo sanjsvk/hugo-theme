@@ -50,27 +50,22 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Google"
-      role: "Software developer"
-      startdate: Feb 2021
+    - company: "LabCorp"
+      role: "Data Science Intern"
+      startdate: May 2021
       enddate: present
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Facebook"
-      role: "Fullstack developer"
-      startdate: Mar 2020
+        - point: d
+        - point: e
+        - point: f
+    - company: "eMotionRx, Inc"
+      role: "Data Science co-op"
+      startdate: May 2020
       enddate: Dec 2020
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Amazon"
-      role: "Fullstack developer"
-      startdate: Feb 2019
-      enddate: Jan 2020
-      featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: a
+        - point: b
+        - point: c
 
 
   # Education
