@@ -66,6 +66,13 @@ params:
         - point: Orchestrated the migration of on-prem sensor data onto Google Cloud Platform.
         - point: Streamlined ETL jobs using Cloud Dataproc reducing pre-processing runtime by 30%.
         - point: Designed a random forest model with 94% accuracy for pressure distribution on a sole.
+     - company: "VI Solutions"
+      role: "Data Science Intern"
+      startdate: June 2018
+      enddate: Sept 2018
+      featuredpoints:
+        - point: Accelerated run-time on an Object detection application by 30% using OpenCV.
+        - point: Deployed an image classification model using ImageNet with 87% accuracy.
 
   # Education
   disable_education: false
