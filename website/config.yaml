@@ -58,7 +58,7 @@ params:
         - point: Created an installable data-platform package reducing data pre-processing time by 40%.
         - point: Built and deployed a recommendation system to recommend tests to users.
         - point: Devised a framework for storage and retrieval of test reference ranges in AWS.
-    - company: "eMotionRx, Inc"
+    - company: "eMotionRx"
       role: "Data Science co-op"
       startdate: May 2020
       enddate: Dec 2020
