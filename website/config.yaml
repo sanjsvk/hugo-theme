@@ -67,7 +67,6 @@ params:
         - point: Streamlined ETL jobs using Cloud Dataproc reducing pre-processing runtime by 30%.
         - point: Designed a random forest model with 94% accuracy for pressure distribution on a sole.
 
-
   # Education
   disable_education: false
   education:
