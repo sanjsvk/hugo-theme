@@ -55,8 +55,9 @@ params:
       startdate: May 2021
       enddate: present
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: Created an installable data-platform package reducing data pre-processing time by 40%.
+        - point: Built and deployed a recommendation system to recommend tests to users.
+        - point: Devised a framework for storage and retrieval of test reference ranges in AWS.
     - company: "Facebook"
       role: "Fullstack developer"
       startdate: Mar 2020
