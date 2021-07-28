@@ -55,15 +55,17 @@ params:
       startdate: May 2021
       enddate: present
       featuredpoints:
-        - point: d
-        - point: e
+        - point: Created an installable data-platform package reducing data pre-processing time by 40%.
+        - point: Built and deployed a recommendation system to recommend tests to users.
+        - point: Devised a framework for storage and retrieval of test reference ranges in AWS.
     - company: "eMotionRx, Inc"
       role: "Data Science co-op"
       startdate: May 2020
       enddate: Dec 2020
       featuredpoints:
-        - point: a
-        - point: b
+        - point: Orchestrated the migration of on-prem sensor data onto Google Cloud Platform.
+        - point: Streamlined ETL jobs using Cloud Dataproc reducing pre-processing runtime by 30%.
+        - point: Designed a random forest model with 94% accuracy for pressure distribution on a sole.
 
 
   # Education
