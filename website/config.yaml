@@ -34,7 +34,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Sanjan Vijayakumar, a passionate Data Scientist. <br> I like to leverage the power of data to build insights that help make valuable business decisions"
+  descripe_l1_person: "Hi, I'm Sanjan Vijayakumar, a passionate Data Scientist. <br> I like to leverage the power of data to build insights that help make valuable business decisions."
   skills:
     - name: Python
       percentage: 90
