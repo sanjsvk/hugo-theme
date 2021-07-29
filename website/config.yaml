@@ -34,7 +34,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Sanjan!<br>I'm a Data Scientist pursuing my Master's degree in Data Science at Northeastern University, Boston.<br> I'm currently working as a Data Science Intern at LabCorp.<br>I'm extremely interested in turning concepts of Data Science and Machine Learning into meaningful insights, especially in the field of healthcare."
+  descripe_l1_person: "Hi, I'm Sanjan!<br>I'm a Data Scientist pursuing my Master's degree in Data Science at Northeastern University, Boston.<br> I'm currently working as a Data Science Intern at LabCorp.<br>I'm extremely interested in turning concepts of Data Science and Machine Learning into meaningful insights, especially in the field of healthcare. <br> [Resume](https://github.com/sanjsvk/hugo-theme/blob/master/website/Sanjan_Vijayakumar_Resume.pdf)"
   skills:
     - name: Python
       percentage: 90
