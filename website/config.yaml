@@ -34,7 +34,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Sanjan!<br>I'm a Data Scientist pursuing my Master's degree in Data Science at Northeastern University, Boston.<br><br> I'm currently working as a Data Science Intern at LabCorp.<br> I'm extremely interested in turning concepts of Data Science and Machine Learning into meaningful insights, especially in the field of healthcare. <br> <br> [RESUME](https://github.com/sanjsvk/Resume/blob/main/Sanjan_Vijayakumar_Resume.pdf)"
+  descripe_l1_person: "Hi, I'm Sanjan!<br>I'm a Data Scientist pursuing my Master's degree in Data Science at Northeastern University, Boston.<br><br> I've worked as a Data Science Intern at LabCorp and a Data Science co-op at eMotionRx, Inc.<br> I'm extremely interested in turning concepts of Data Science and Machine Learning into meaningful insights, especially in the field of healthcare. <br> <br> [RESUME](https://github.com/sanjsvk/Resume/blob/main/Sanjan_Vijayakumar_Resume.pdf)"
   skills:
     - name: Python
       percentage: 90
@@ -53,7 +53,7 @@ params:
     - company: "LabCorp"
       role: "Data Science Intern"
       startdate: May 2021
-      enddate: present
+      enddate: August 2021
       featuredpoints:
         - point: Created an installable data-platform package reducing data pre-processing time by 40%.
         - point: Built and deployed a recommendation system to recommend tests to users.
